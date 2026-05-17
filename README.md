@@ -172,7 +172,7 @@ Script Editor
 Paste:
 
 ```applescript
-do shell script "/Users/YOUR_USERNAME/github/macos-virtual-hidpi-displaylink/start.sh &"
+do shell script "/Users/YOUR_USERNAME/virtual-hidpi/start.sh &"
 ```
 
 Replace:
