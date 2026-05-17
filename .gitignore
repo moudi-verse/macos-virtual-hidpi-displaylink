@@ -1,0 +1,5 @@
+# compiled binary
+virtual_hidpi_display
+
+# macOS
+.DS_Store
